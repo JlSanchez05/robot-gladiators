@@ -5,7 +5,7 @@ var playerMoney =10;
 
 // You can also log multiple values at once like this
 
-var enemyName = "Roborto";
+var enemyNames = ["Roborto", "Amy Android", "Robo Trumble"];
 var enemyHealth = 50;
 var enemyAttack = 12;
 
